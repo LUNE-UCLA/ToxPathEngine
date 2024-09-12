@@ -44,4 +44,4 @@ Detailed instructions on how to use the code:
 
 If you use this code or the associated research in your work, please consider citing our manuscript:
 
-Alidoost, Mohammadali and Wilson, L. Jennifer, "Preclinical Side Effect Prediction through Pathway Engineering of Protein Interaction Network Models", Submitted (2023).
+Alidoost, Mohammadali, and Jennifer L. Wilson. "Preclinical side effect prediction through pathway engineering of protein interaction network models." CPT: Pharmacometrics & Systems Pharmacology (2024).
